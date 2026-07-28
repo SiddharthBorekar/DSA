@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;news&apos; to &apos;Swap_alternate_element&apos;&#x0D;&#x0A;- Original project: &apos;Array_Basic&apos;&#x0D;&#x0A;- Original element: &apos;news&apos;&#x0D;&#x0A;- Renamed element: &apos;Swap_alternate_element&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;news&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{news.java[news" matchStrategy="1" name="Swap_alternate_element" qualified="false" references="true" similarDeclarations="false" stamp="1781784485405" textual="false" version="1.0"/>
+</session>
