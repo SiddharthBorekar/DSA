@@ -8,7 +8,6 @@ class Solution {
                 nums[first] = nums[last];
             }
         }
-
         return first + 1;
     }
 }
